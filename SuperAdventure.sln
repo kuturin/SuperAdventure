@@ -1,9 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAdventure", "SuperAdventure\SuperAdventure.csproj", "{9AD3984E-6AB0-4D11-9919-3478A747D3ED}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C32D83B0-6AA7-4C46-BDD4-E920B55E1B10} = {C32D83B0-6AA7-4C46-BDD4-E920B55E1B10}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{C32D83B0-6AA7-4C46-BDD4-E920B55E1B10}"
 EndProject

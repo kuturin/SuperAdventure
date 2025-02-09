@@ -1,6 +1,6 @@
 ﻿namespace SuperAdventure
 {
-    partial class Form1
+    partial class SuperAdventure
     {
         /// <summary>
         /// Wymagana zmienna projektanta.
@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // SuperAdventure
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1055, 541);
+            this.Name = "SuperAdventure";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.SuperAdventure_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
