@@ -15,9 +15,15 @@ namespace SuperAdventure
     public partial class SuperAdventure : Form
     {
         private Player _player;
+        
         public SuperAdventure()
         {
             InitializeComponent();
+
+            Location location = new Location(1, "Home", "This is your house.");
+            location.ID = 1;
+            location.Name = "Home";
+            location.Description = "This is your house.";
 
             _player = new Player();
 
