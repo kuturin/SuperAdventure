@@ -144,7 +144,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>20</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -171,7 +171,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>19</value>
   </data>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -198,7 +198,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>18</value>
   </data>
   <data name="label4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -225,7 +225,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>17</value>
   </data>
   <data name="lblHitPoints.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -249,7 +249,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblHitPoints.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>16</value>
   </data>
   <data name="lblGold.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -273,7 +273,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblGold.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>15</value>
   </data>
   <data name="lblExperience.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -297,7 +297,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblExperience.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>14</value>
   </data>
   <data name="lblLevel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -321,6 +321,315 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblLevel.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>617, 531</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 13</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Select action</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="cboWeapons.Location" type="System.Drawing.Point, System.Drawing">
+    <value>369, 559</value>
+  </data>
+  <data name="cboWeapons.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 21</value>
+  </data>
+  <data name="cboWeapons.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;cboWeapons.Name" xml:space="preserve">
+    <value>cboWeapons</value>
+  </data>
+  <data name="&gt;&gt;cboWeapons.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboWeapons.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cboWeapons.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="cboPotions.Location" type="System.Drawing.Point, System.Drawing">
+    <value>369, 593</value>
+  </data>
+  <data name="cboPotions.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 21</value>
+  </data>
+  <data name="cboPotions.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;cboPotions.Name" xml:space="preserve">
+    <value>cboPotions</value>
+  </data>
+  <data name="&gt;&gt;cboPotions.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboPotions.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cboPotions.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="btnUseWeapon.Location" type="System.Drawing.Point, System.Drawing">
+    <value>620, 559</value>
+  </data>
+  <data name="btnUseWeapon.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnUseWeapon.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btnUseWeapon.Text" xml:space="preserve">
+    <value>Use</value>
+  </data>
+  <data name="&gt;&gt;btnUseWeapon.Name" xml:space="preserve">
+    <value>btnUseWeapon</value>
+  </data>
+  <data name="&gt;&gt;btnUseWeapon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnUseWeapon.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnUseWeapon.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnUsePotion.Location" type="System.Drawing.Point, System.Drawing">
+    <value>620, 593</value>
+  </data>
+  <data name="btnUsePotion.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnUsePotion.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btnUsePotion.Text" xml:space="preserve">
+    <value>Use</value>
+  </data>
+  <data name="&gt;&gt;btnUsePotion.Name" xml:space="preserve">
+    <value>btnUsePotion</value>
+  </data>
+  <data name="&gt;&gt;btnUsePotion.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnUsePotion.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnUsePotion.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnNorth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>493, 433</value>
+  </data>
+  <data name="btnNorth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnNorth.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnNorth.Text" xml:space="preserve">
+    <value>North</value>
+  </data>
+  <data name="&gt;&gt;btnNorth.Name" xml:space="preserve">
+    <value>btnNorth</value>
+  </data>
+  <data name="&gt;&gt;btnNorth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNorth.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnNorth.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnEast.Location" type="System.Drawing.Point, System.Drawing">
+    <value>573, 457</value>
+  </data>
+  <data name="btnEast.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnEast.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btnEast.Text" xml:space="preserve">
+    <value>East</value>
+  </data>
+  <data name="&gt;&gt;btnEast.Name" xml:space="preserve">
+    <value>btnEast</value>
+  </data>
+  <data name="&gt;&gt;btnEast.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEast.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnEast.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnSouth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>493, 487</value>
+  </data>
+  <data name="btnSouth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnSouth.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="btnSouth.Text" xml:space="preserve">
+    <value>South</value>
+  </data>
+  <data name="&gt;&gt;btnSouth.Name" xml:space="preserve">
+    <value>btnSouth</value>
+  </data>
+  <data name="&gt;&gt;btnSouth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSouth.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSouth.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnWest.Location" type="System.Drawing.Point, System.Drawing">
+    <value>412, 457</value>
+  </data>
+  <data name="btnWest.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnWest.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="btnWest.Text" xml:space="preserve">
+    <value>West</value>
+  </data>
+  <data name="&gt;&gt;btnWest.Name" xml:space="preserve">
+    <value>btnWest</value>
+  </data>
+  <data name="&gt;&gt;btnWest.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnWest.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnWest.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="rtbLocation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>347, 19</value>
+  </data>
+  <data name="rtbLocation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>360, 105</value>
+  </data>
+  <data name="rtbLocation.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="rtbLocation.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;rtbLocation.Name" xml:space="preserve">
+    <value>rtbLocation</value>
+  </data>
+  <data name="&gt;&gt;rtbLocation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rtbLocation.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rtbLocation.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="rtbMessages.Location" type="System.Drawing.Point, System.Drawing">
+    <value>347, 130</value>
+  </data>
+  <data name="rtbMessages.Size" type="System.Drawing.Size, System.Drawing">
+    <value>360, 286</value>
+  </data>
+  <data name="rtbMessages.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="rtbMessages.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;rtbMessages.Name" xml:space="preserve">
+    <value>rtbMessages</value>
+  </data>
+  <data name="&gt;&gt;rtbMessages.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rtbMessages.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rtbMessages.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="dgvInventory.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="dgvInventory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 130</value>
+  </data>
+  <data name="dgvInventory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>312, 309</value>
+  </data>
+  <data name="dgvInventory.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;dgvInventory.Name" xml:space="preserve">
+    <value>dgvInventory</value>
+  </data>
+  <data name="&gt;&gt;dgvInventory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvInventory.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dgvInventory.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="dgvQuests.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="dgvQuests.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 446</value>
+  </data>
+  <data name="dgvQuests.Size" type="System.Drawing.Size, System.Drawing">
+    <value>312, 189</value>
+  </data>
+  <data name="dgvQuests.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;dgvQuests.Name" xml:space="preserve">
+    <value>dgvQuests</value>
+  </data>
+  <data name="&gt;&gt;dgvQuests.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvQuests.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dgvQuests.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
